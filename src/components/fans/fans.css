@@ -1,0 +1,50 @@
+.el-header{
+  background-color: #ffffff;
+  color: black;
+  line-height: 40px;
+  font-size: 18px;
+  width:1150px
+}
+.text {
+  font-size: 14px;
+}
+
+.item {
+  padding: 18px 0;
+}
+
+.box-card {
+  width: 520px;
+  height:400px;
+  margin-top: 5px;
+  margin-left:50px;
+}
+.box-card1 {
+  width: 520px;
+  height:300px;
+  margin-left:50px;
+}
+.el-header, .el-footer {
+  background-color: #B3C0D1;
+  color: #333;
+  text-align: center;
+  line-height: 60px;
+}
+
+.el-aside {
+  background-color: #D3DCE6;
+  color: #333;
+  text-align: center;
+  line-height: 200px;
+}
+
+.el-main {
+  background-color: #E9EEF3;
+  color: #333;
+  text-align: center;
+  line-height: 160px;
+}
+
+body > .el-container {
+  margin-bottom: 40px;
+}
